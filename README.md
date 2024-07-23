@@ -18,3 +18,8 @@ Unet Result  (Test IoU: 65%):
 
 ![download](https://github.com/user-attachments/assets/36703cd5-9aa3-4b2e-9ee3-78d70bfab5f4)
 
+LinkNet (Test IoU: 64%) :
+
+![download](https://github.com/user-attachments/assets/791b145c-cd4a-4e96-ba12-6afbdb11bec8)
+
+

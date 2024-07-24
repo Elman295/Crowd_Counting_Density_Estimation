@@ -14,6 +14,16 @@ Density Scatter Plot:
 
 ![download](https://github.com/user-attachments/assets/9361185e-c641-4f4b-a521-40dc55eb8f45)
 
+--- 
+Utilized Segmentation models: 
+
+1 - Unet 
+
+![The-architecture-of-Unet](https://github.com/user-attachments/assets/00f556ae-348c-4097-b575-33761f3bbd3a)
+
+
+
+
 Unet Result  (Test IoU: 65%):
 
 ![download](https://github.com/user-attachments/assets/36703cd5-9aa3-4b2e-9ee3-78d70bfab5f4)

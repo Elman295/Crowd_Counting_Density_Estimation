@@ -34,6 +34,7 @@ Unet Result  (Test IoU: 65%):
 ![download](https://github.com/user-attachments/assets/36703cd5-9aa3-4b2e-9ee3-78d70bfab5f4)
 
 TransUnet (Test IoU: 62%):
+
 ![download](https://github.com/user-attachments/assets/b52d1075-68e8-4705-a9bb-66003884c3d4)
 
 

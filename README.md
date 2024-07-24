@@ -27,11 +27,15 @@ Utilized Segmentation models:
 <img width="662" alt="68747470733a2f2f70726f64756374696f6e2d6d656469612e70617065727377697468636f64652e636f6d2f736f6369616c2d696d616765732f6866504a727a7a7655756165494d76622e706e67" src="https://github.com/user-attachments/assets/2ad29d29-7243-47de-8852-79bed920c397">
 
 
-
+---
 
 Unet Result  (Test IoU: 65%):
 
 ![download](https://github.com/user-attachments/assets/36703cd5-9aa3-4b2e-9ee3-78d70bfab5f4)
+
+TransUnet (Test IoU: 62%):
+![download](https://github.com/user-attachments/assets/b52d1075-68e8-4705-a9bb-66003884c3d4)
+
 
 LinkNet (Test IoU: 64%) :
 
